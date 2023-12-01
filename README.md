@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @JeongHan-Bae
 
-Welcome to my GitHub profile! I'm passionate about video game development, particularly on the backend side. I have a solid understanding of the basic features of C, C++, Java, and Python, and I'm currently diving into more advanced topics like data processing. I'm excited to collaborate on game or AI projects and contribute to the gaming community.
+Welcome to my GitHub profile! I'm passionate about video game development, particularly on the backend side. I have a solid understanding of the basic features of C/C++, Java, and Python, and I'm currently diving into more advanced topics like data processing. I'm excited to collaborate on game or AI projects and contribute to the gaming community.
 
 ## 👀 Interests
 
