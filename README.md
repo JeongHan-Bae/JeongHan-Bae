@@ -1,45 +1,54 @@
 # 👋 Hi, I’m [@JeongHan-Bae](https://github.com/JeongHan-Bae/JeongHan-Bae)
 
-Welcome to my GitHub profile! I specialize in building efficient and scalable applications, primarily working with **modern C++** and **Python 3**. I love tackling challenging projects that push the boundaries of technology.
+Welcome to my GitHub profile!
+I’m a **Software Development Project Manager** with a strong background in **modern C++** and **Python 3**, focusing on **architecture, engineering processes, and agile product delivery**.
 
-## 👀 Interests
+My role bridges **technical expertise** and **project leadership**:
+I design system architectures, manage cross-functional teams, and drive projects from MVP prototypes to production-ready platforms with both **stability** and **speed**.
 
-- 🖥️ Software Development  
-- 🛠️ Application Integration  
-- 🌏 Cross-Platform Development  
+---
 
-## 🌱 Currently Learning
+## 👀 Focus & Interests
 
-I'm currently expanding my knowledge in the following areas:  
+* 📌 **Project Management & Agile Development** – requirement analysis, sprint planning, MVP delivery
+* 🏗️ **Software Architecture** – scalable backend design, data modeling, system abstraction
+* 🤝 **Team Collaboration** – enabling engineers and students to collaborate effectively (Docker, CI/CD)
+* ⚡ **High-Performance Development** – C++20 frameworks, Python + Cython integrations
+* 🌍 **Cross-Cultural Communication** – international projects in multilingual environments
 
-- 🚀 Advanced Programming Techniques  
-- 🥷 Seamless Integration of C++ and Python  
-- 🔥 Enhancing User Experience with Qt Framework  
-- 🌐 Python Web Development (Django)  
+---
+
+## 🌱 Currently Working On
+
+* 🚀 Enhancing **engineering workflows** with containerized CI/CD pipelines
+* 🔗 Leading **student collaboration projects** using my C++ HTTP framework [**Bulgogi**](https://github.com/bulgogi-framework/bulgogi)
+* 🧩 Building **Python SDKs** to integrate with high-performance C++ servers for algorithmic services
+* 🤖 Exploring **AI-assisted development** for frontend/UI and rapid prototyping
+
+---
 
 ## 🌐 Language Proficiency
 
-I am fluent in:
+* **English** – professional working proficiency
+* **French** – academic & professional use
+* **Chinese (Mandarin)** – native / colloquial
+* **Joseonjok Mal (중국조선족말 / Chinese Korean language)** – fluent in reading & writing; limited spoken ability
 
-- **English**  
-- **French**  
-- **Chinese (Mandarin)**  
+This multilingual background allows me to **bridge international and multicultural teams** while also working seamlessly with **multilingual documentation, databases, and system design**.
 
-This multilingual capability allows me to collaborate effectively in diverse, international environments.
+---
 
-## ❤️🔭 Looking to Collaborate On
+## 🔭 Open to Collaborate On
 
-I'm open to collaborating on projects related to:  
+* 📊 **Backend & API Platforms** (C++ / Python / Java)
+* 🛠️ **System Architecture & MVP Design** for startups and student projects
+* 🤝 **Cross-language Integration** (C++/Python, Java/Python)
+* 🚀 **AI-assisted Development Workflows**
 
-- 🔨 Application Development  
-- 🧩 C++ and Python Integration  
-- 📦 Qt Framework Projects  
-- 🌍 Python Web Development (Django)  
+---
 
-If you're working on exciting projects and seeking a dedicated collaborator, feel free to reach out to me!  
+## 📫 How to Reach Me
 
-## 📫 How to Reach Me  
+* 📧 [mastropseudo@gmail.com](mailto:mastropseudo@gmail.com)
 
-You can reach me at: [mastropseudo@gmail.com](mailto:mastropseudo@gmail.com)  
-
-Let's connect and build innovative solutions together! 😄
+Let’s connect and turn ambitious ideas into **well-structured, deliverable projects**.
