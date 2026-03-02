@@ -34,7 +34,7 @@
 > for example **Qt**, but does not align with my core engineering direction, it is intentionally not displayed.
 >
 > <p align="center">
->   <img src="https://skillicons.dev/icons?i=qt&theme=light"
+>   <img src="https://skillicons.dev/icons?i=qt"
 >        width="70"
 >        alt="Qt Icon" />
 > </p>
