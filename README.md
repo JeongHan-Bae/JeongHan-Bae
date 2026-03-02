@@ -7,71 +7,84 @@
 
 ## 🚀 About Me
 
-- 🧭 **Software Engineering background** with focus on *architecture, design, and delivery*
-- 🧠 Experienced in **modern C++** and **Python**, applying engineering methodologies to system architecture and development.
-- 🧩 Skilled at **bridging management and technology** — translating technical challenges into product goals
-- ⚙️ Leading teams from **MVP prototypes** → **scalable production systems**
-- 🌍 Operates across **English / Mandarin / French / Korean** environments
+- 🧱 Building **maintainable, auditable, production-grade systems**
+- 🧠 Writing **modern C++** and **Python** with discipline, not decoration  
+- 🔎 Prioritizing **clarity, traceability, and operational stability**
+- ⚓️ Grounding software in **real business constraints and measurable impact**
+- 🏝 Starting from **essential MVPs**, expanding only when real requirements demand it  
 
-💬 *"Turning ambitious ideas into well-structured, deliverable projects."*
-
-
-## 🚀 Tech Stack Overview
-
-### Programming Languages
-
-[![modern C++](https://img.shields.io/badge/-modern%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/20)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-
----
-
-### Backend Frameworks
-
-[![Boost](https://img.shields.io/badge/-Boost-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.boost.org/)
-[![Bulgogi](https://img.shields.io/badge/-Bulgogi-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/bulgogi-framework/bulgogi#readme)
-
-[![Django](https://img.shields.io/badge/-Django-3776AB?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/-Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-3776AB?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-
----
-
-### Databases
-
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-
----
-
-### Build & CI/CD Tools
-
-[![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-[![Ninja](https://img.shields.io/badge/-Ninja-ee2b2e?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://ninja-build.org/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Gradle](https://img.shields.io/badge/-Gradle-17aacb?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
-[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![SVN](https://img.shields.io/badge/-SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)](https://subversion.apache.org/)
-
----
-
-### DevOps & Containerization
-
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
----
-
+💬 *"No over-engineering. No unnecessary abstraction. Just solid systems that work."*
 
 ## Visual Tech Stack
 
-[![My Tools](https://skillicons.dev/icons?i=cpp,python,java,fastapi,spring,cmake,githubactions,gradle,maven,git,docker,kubernetes,mysql,postgresql,sqlite,linux,ubuntu,debian,vscode,idea&theme=light)](https://github.com/JeongHan-Bae)
+> **Note:**
+> 
+> Only core technologies aligned with my engineering philosophy are displayed in the icon stack.
+> 
+> When a primary technology does not have an available icon on https://skillicons.dev/,
+> for example **Boost**, it is not shown despite being strongly endorsed.
+>
+> <p align="center">
+>   <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Boost.svg"
+>        width="70"
+>        alt="Boost Logo" />
+> </p>
+>
+> When a technology does have an available icon on https://skillicons.dev/,
+> for example **Qt**, but does not align with my core engineering direction, it is intentionally not displayed.
+>
+> <p align="center">
+>   <img src="https://skillicons.dev/icons?i=qt&theme=light"
+>        width="70"
+>        alt="Qt Icon" />
+> </p>
 
+The following represents the core technology stack:
+
+<!-- C++ Ecosystem -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,opencv&theme=light" />
+</p>
+
+<!-- Python Ecosystem -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" />
+</p>
+
+<!-- Java Ecosystem -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light" />
+</p>
+
+<!-- Web Frontend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,vite,vue&theme=dark" />
+</p>
+
+<!-- CI & Testing -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,selenium&theme=light" />
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+</p>
+
+<!-- DevOps -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=light" />
+</p>
+
+<!-- Systems / IDE -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,apple,vscode,idea&theme=light" />
+</p>
+
+Although I’m capable of working with several native frontend environments, I intentionally avoid using many of them.  
+I prefer building frontend applications on the web — especially with Vite + Vue 3.  
+If possible, I favor RESTful architecture (while being fully proficient in gRPC), 
+simply because I prefer the clarity and simplicity of REST.
 
 ## 📈 GitHub Contribution Snake
 
@@ -83,59 +96,119 @@
 
 ---
 
-## 🧩 Engineering Projects
-
-<p style="font-size: medium;">
-  Two of my projects have reached an <strong>engineering-ready stage</strong> — fully structured for practical use and scalable integration.
-</p>
-
-<!-- JH Toolkit -->
-<div align="center" style="margin-top: 20px; margin-bottom: -10px;">
-  <a href="https://github.com/JeongHan-Bae/JH-Toolkit">
-    <img src="https://raw.githubusercontent.com/bulgogi-framework/.github/main/res/img/Oree.svg"
-         alt="Oree Mascot"
-         style="width: 128px; height: auto;">
-  </a>
-</div>
-
-<p align="center" style="font-size: large; font-weight: bold; margin-top: 12px;">
-  <a href="https://github.com/JeongHan-Bae/JH-Toolkit">JH Toolkit</a>
-</p>
-
-<p style="font-size: medium; margin-top: -8px; max-width: 700px;">
-  A <b>Duck-Typed</b>, <b>Template-Driven</b> C++20 Toolkit for Generic, Asynchronous, and POD-Oriented Programming — Fully Header-Only and Concurrency-Safe.
-</p>
-
----
-
-<!-- Bulgogi Framework -->
-<div align="center" style="margin-top: 20px; margin-bottom: -10px;">
-  <a href="https://github.com/bulgogi-framework/bulgogi">
-    <img src="https://raw.githubusercontent.com/bulgogi-framework/.github/main/res/img/Bulgogi.svg"
-         alt="Bulgogi Logo"
-         style="width: 128px; height: auto;">
-  </a>
-</div>
-
-<p align="center" style="font-size: large; font-weight: bold; margin-top: 12px;">
-  <a href="https://github.com/bulgogi-framework/bulgogi">Bulgogi HTTP Framework</a>
-</p>
-
-<p style="font-size: medium; margin-top: -8px; max-width: 700px;">
-  A <strong>lightweight, web-free C++ HTTP API framework</strong> built on Boost.Beast — 
-  designed for <strong>rapid backend prototyping</strong> and <strong>clean system architecture</strong>.  
-  Integrates seamlessly with <strong>JH Toolkit</strong> for data modeling and type-safe API construction.
-</p>
-
----
-
-<p style="font-size: medium; margin-top: 16px;">
-  🧭 Both frameworks are under active development and serve as part of my ongoing research into  
-  <strong>engineering methodology, C++ modularity, and high-performance backend design</strong>.
-</p>
-
 ## 📫 How to Reach Me
 
 📧 [mastropseudo@gmail.com](mailto:mastropseudo@gmail.com)
 
 Let's connect and turn ambitious ideas into **well-structured, deliverable projects**.
+
+## A Quiet Sign-Off
+
+If you’ve reached this far,  
+thank you for walking through these lines of code and thought.
+
+Before the page ends, I’ll leave a small Tcl script —  
+a gentle farewell written in the language I enjoy.
+
+Here is a playful, lightly obfuscated fragment — 
+a small tribute to my Grande École geek years, before I became the serious engineer I am today.
+
+<details>
+<summary>One last script</summary>
+
+```tcl
+#!/usr/bin/env tclsh
+
+proc fastpow {base exp} {
+    if {$exp < 0} {
+        error "Negative exponent not supported"
+    }
+
+    set result 1
+    set b $base
+    set e $exp
+
+    while {$e > 0} {
+        if {$e % 2 == 1} {
+            set result [expr {$result * $b}]
+        }
+        set b [expr {$b * $b}]
+        set e [expr {$e / 2}]
+    }
+
+    return $result
+}
+
+proc f {x} {
+    expr {
+        (
+            5449249 * [fastpow $x 4]
+            - 1775640448 * [fastpow $x 3]
+            + 192283248169 * [fastpow $x 2]
+            - 6920941047270 * $x
+            + 389518044300
+        )
+        / 3856614300
+    }
+}
+
+proc g {x} {
+    expr {
+        (
+            444011 * [fastpow $x 3]
+            - 85822707 * [fastpow $x 2]
+            + 3965440996 * $x
+            + 18632136600
+        )
+        / 282305100
+    }
+}
+
+proc generate_code {x0} {
+    set x $x0
+    set code ""
+
+    while {1} {
+        set y [f $x]
+
+        if {$y < 0} {
+            break
+        }
+
+        append code [format %c $y]
+        set x $y
+    } ;# 101 120 105 116 -1
+
+    return $code
+}
+
+proc generate_str {x0} {
+    set x $x0
+    set str ""
+    set iter 0
+
+    while {1} {
+        incr iter
+        set y [g $x]
+
+        if {$y == $iter} {
+            break
+        }
+
+        append str [format %c $y]
+        set x $y
+    } ;# 66 121 101 4
+
+    return $str
+}
+
+proc _hook {cmd op} {
+    puts [generate_str 0]
+}
+
+trace add execution [generate_code 0] enter _hook
+
+apply [list {} [generate_code 0]]
+```
+
+</details>
