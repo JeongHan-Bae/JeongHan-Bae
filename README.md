@@ -34,9 +34,13 @@
 > for example **Qt**, but does not align with my core engineering direction, it is intentionally not displayed.
 >
 > <p align="center">
->   <img src="https://skillicons.dev/icons?i=qt"
+>   <picture>
+>     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt&theme=dark">
+>     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=qt&theme=light">
+>     <img src="https://skillicons.dev/icons?i=qt&theme=light"
 >        width="70"
 >        alt="Qt Icon" />
+>   </picture>
 > </p>
 
 The following represents the core technology stack:
