@@ -37,7 +37,7 @@ My engineering philosophy is shaped by **Modern C++** and ***The Mythical Man-Mo
 
 <!-- Python Ecosystem -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,fastapi,django&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,fastapi,django&theme=light" />
 </p>
 
 <!-- Java Ecosystem -->
@@ -52,7 +52,7 @@ My engineering philosophy is shaped by **Modern C++** and ***The Mythical Man-Mo
 
 <!-- CI & Testing -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,gherkin,selenium&theme=dark" />
 </p>
 
 <!-- Databases -->
@@ -65,9 +65,9 @@ My engineering philosophy is shaped by **Modern C++** and ***The Mythical Man-Mo
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=dark" />
 </p>
 
-<!-- Systems / IDE -->
+<!-- Systems -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,apple,vscode,idea&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,apple&theme=light" />
 </p>
 
 ## 📈 GitHub Contribution Snake
