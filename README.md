@@ -37,12 +37,12 @@ My engineering philosophy is shaped by **Modern C++** and ***The Mythical Man-Mo
 
 <!-- Python Ecosystem -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,fastapi,django&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,pkl,fastapi&theme=light" />
 </p>
 
 <!-- Java Ecosystem -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,gherkin,maven&theme=light" />
 </p>
 
 <!-- Web Frontend -->
@@ -52,17 +52,17 @@ My engineering philosophy is shaped by **Modern C++** and ***The Mythical Man-Mo
 
 <!-- CI & Testing -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,gherkin,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,selenium&theme=light" />
 </p>
 
 <!-- Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite&theme=light" />
 </p>
 
 <!-- DevOps -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nginx&theme=light" />
 </p>
 
 <!-- Systems -->
