@@ -1,5 +1,7 @@
 # 👋 Hi, I'm [@JeongHan-Bae](https://github.com/JeongHan-Bae)
 
+<h4 align="center">중국조선족 개발자/공학자</h4>
+
 <h3 align="center">
 專門 產品 및 項目 工學者
 <br>
