@@ -61,8 +61,8 @@ Compile-time Errors over Runtime Failures
   <span style="font-size: x-large;">&#8205;</span>
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gherkin&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gherkin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gherkin&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gherkin&theme=dark">
       <img src="https://skillicons.dev/icons?i=gherkin&theme=light"
            alt="Cucumber"
            width="72" valign="middle">
@@ -71,8 +71,8 @@ Compile-time Errors over Runtime Failures
   <span style="font-size: x-large;">&#8205;</span>
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/boost-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/boost-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/boost-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/boost-dark.svg">
       <img src="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/boost-light.svg"
            alt="Boost"
            width="72" valign="middle">
@@ -81,8 +81,8 @@ Compile-time Errors over Runtime Failures
   <span style="font-size: x-large;">&#8205;</span>
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/protobuf-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/protobuf-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/protobuf-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/protobuf-dark.svg">
       <img src="https://raw.githubusercontent.com/JeongHan-Bae/JeongHan-Bae/main/assets/img/protobuf-light.svg"
            alt="Protobuf"
            width="72" valign="middle">
@@ -101,8 +101,8 @@ Compile-time Errors over Runtime Failures
   <span style="font-size: x-large;">&#8205;</span>
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
       <img src="https://skillicons.dev/icons?i=nodejs&theme=light"
            alt="NodeJS"
            width="72" valign="middle">
@@ -111,8 +111,8 @@ Compile-time Errors over Runtime Failures
   <span style="font-size: x-large;">&#8205;</span>
   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=light">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
       <img src="https://skillicons.dev/icons?i=python&theme=light"
            alt="Python3"
            width="72" valign="middle">
